@@ -41,7 +41,8 @@
 			</div>
 		</aside>
 		<section>
-			<h1 class="mb-8 text-2xl font-bold tracking-tight">Digitales Handwerk</h1>
+			<h1 class="text-2xl font-bold tracking-tight">Digitales Handwerk</h1>
+			<p class="text-md mb-8">Thomas Monzel</p>
 			<p class="mb-4">
 				I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in Vim's keystroke
 				commands and tabs' flexibility for personal viewing preferences. This extends to my support
